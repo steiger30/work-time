@@ -1,0 +1,8 @@
+{
+  "name": "WorkTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f2e033c4"
+}
